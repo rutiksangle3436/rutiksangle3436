@@ -4,8 +4,10 @@
 **rutiksangle3436/rutiksangle3436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently pursuing my Masters of Science in Computer Engineering from San Jose State University
+<!--
+
 - 🌱 I’m currently learning Machine Learning, Data Mining, 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
